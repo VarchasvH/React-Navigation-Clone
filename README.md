@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# React Navigation Clone
 
-## Getting Started
+This project is a frontend-only clone of the [React Navigation](https://reactnavigation.org/) website. It serves as a practice exercise for implementing and exploring Tailwind CSS concepts within a Next.js environment.
 
-First, run the development server:
+### Technologies Used
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Frontend:** Next.js, React
+- **Styling:** Tailwind CSS
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### About React Navigation
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+[React Navigation](https://reactnavigation.org/) is a popular routing and navigation library for React Native applications. It provides a flexible and customizable navigation solution, allowing developers to create smooth and intuitive navigation experiences in their mobile apps.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Purpose of This Project
 
-## Learn More
+The main objective of this project is to deepen understanding of responsive web design principles and refine skills in using Tailwind CSS utility classes. By recreating the React Navigation website frontend, I aimed to gain practical experience in building modern, visually appealing user interfaces with Next.js.
 
-To learn more about Next.js, take a look at the following resources:
+### Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To run the project locally:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install dependencies: `npm install`.
+4. Start the development server: `npm run dev`.
 
-## Deploy on Vercel
+### Disclaimer
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is for educational purposes only. All design assets and content belong to their respective owners. No affiliation with React Navigation or its creators is implied.
